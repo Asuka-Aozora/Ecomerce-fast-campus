@@ -1,0 +1,302 @@
+{
+  "products": [
+    {
+      "discount": 0.1,
+      "id": "1",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyAhjnInhaplUJ_XdZTEPyC3FXZ3nos0KYA&s",
+      "name": "Jubah Putih",
+      "price": 125000,
+      "stock": 9
+    },
+    {
+      "discount": 0.5,
+      "id": "2",
+      "imageUrl": "https://down-id.img.susercontent.com/file/592d145656398b8e1e9fc237ffb5dce8",
+      "name": "Kemeja Putih",
+      "price": 185000,
+      "stock": 6
+    },
+    {
+      "discount": 0.2,
+      "id": "3",
+      "imageUrl": "https://www.screamous.com/cdn/shop/files/id-11134207-7r98t-lnwb7clx61jq16.jpg?v=1699588216",
+      "name": "Jaket Hitam ",
+      "price": 200000,
+      "stock": 0
+    },
+    {
+      "name": "Kaos Polos",
+      "price": 75000,
+      "stock": 0,
+      "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lqqedlx08uwv22",
+      "id": "4"
+    },
+    {
+      "discount": 0.3,
+      "id": "5",
+      "imageUrl": "https://down-id.img.susercontent.com/file/f9ac66b6f7db616a9ddaa480681bef85",
+      "name": "Sweater Rajut",
+      "price": 150000,
+      "stock": 2
+    },
+    {
+      "discount": 0.25,
+      "id": "6",
+      "imageUrl": "https://cutoff.id/cdn/shop/files/PRIMEINDIGOLP1.jpg?v=1684647337",
+      "name": "Celana Jeans",
+      "price": 210000,
+      "stock": 0
+    },
+    {
+      "discount": 0.4,
+      "id": "7",
+      "imageUrl": "https://geela.id/cdn/shop/files/Z1_54d88314-b76a-4eca-8d72-acb7ae6ee4f7_1024x.jpg?v=1710916932",
+      "name": "Rok Panjang",
+      "price": 95000,
+      "stock": 0
+    },
+    {
+      "discount": 0,
+      "id": "8",
+      "imageUrl": "https://dev.kuka.co.id/asset/product_photo/1f8b2b35760055e7bc468dd4b4c30369.jpg",
+      "name": "Kemeja Batik",
+      "price": 185000,
+      "stock": 13
+    },
+    {
+      "id": "eaf4",
+      "name": "baju hitam",
+      "price": 120000,
+      "stock": 20,
+      "imageUrl": "data:image/jpeg;base64,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"
+    }
+  ],
+  "users": [
+    {
+      "id": "5b29",
+      "username": "Azka",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "733a",
+      "username": "admin",
+      "password": "password",
+      "role": "admin"
+    },
+    {
+      "id": "9177",
+      "username": "aozora",
+      "password": "password",
+      "role": "user"
+    }
+  ],
+  "carts": [],
+  "transactions": [
+    {
+      "id": "bd43",
+      "userId": "5b29",
+      "totalPrice": 750000,
+      "tax": 75000,
+      "transactionDate": "2025-02-05T03:29:37.385Z",
+      "items": [
+        {
+          "id": "1f4d",
+          "userId": "5b29",
+          "productId": "3",
+          "quantity": 3,
+          "product": {
+            "discount": 0.2,
+            "id": "3",
+            "imageUrl": "https://www.screamous.com/cdn/shop/files/id-11134207-7r98t-lnwb7clx61jq16.jpg?v=1699588216",
+            "name": "Jaket Hitam ",
+            "price": 200000,
+            "stock": 3
+          }
+        },
+        {
+          "id": "d0c7",
+          "userId": "5b29",
+          "productId": "4",
+          "quantity": 2,
+          "product": {
+            "name": "Kaos Polos",
+            "price": 75000,
+            "stock": 12,
+            "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lqqedlx08uwv22",
+            "id": "4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "3eb1",
+      "userId": "5b29",
+      "totalPrice": 1675000,
+      "tax": 167500,
+      "transactionDate": "2025-02-05T03:40:47.677Z",
+      "items": [
+        {
+          "id": "d0c7",
+          "userId": "5b29",
+          "productId": "4",
+          "quantity": 10,
+          "product": {
+            "name": "Kaos Polos",
+            "price": 75000,
+            "stock": 10,
+            "imageUrl": "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lqqedlx08uwv22",
+            "id": "4"
+          }
+        },
+        {
+          "id": "cb74",
+          "userId": "5b29",
+          "productId": "8",
+          "quantity": 5,
+          "product": {
+            "discount": 0,
+            "id": "8",
+            "imageUrl": "https://dev.kuka.co.id/asset/product_photo/1f8b2b35760055e7bc468dd4b4c30369.jpg",
+            "name": "Kemeja Batik",
+            "price": 185000,
+            "stock": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "f5cb",
+      "userId": "5b29",
+      "totalPrice": 2700000,
+      "tax": 270000,
+      "transactionDate": "2025-02-05T03:42:39.891Z",
+      "items": [
+        {
+          "id": "49b3",
+          "userId": "5b29",
+          "productId": "6",
+          "quantity": 10,
+          "product": {
+            "discount": 0.25,
+            "id": "6",
+            "imageUrl": "https://cutoff.id/cdn/shop/files/PRIMEINDIGOLP1.jpg?v=1684647337",
+            "name": "Celana Jeans",
+            "price": 210000,
+            "stock": 10
+          }
+        },
+        {
+          "id": "2252",
+          "userId": "5b29",
+          "productId": "5",
+          "quantity": 4,
+          "product": {
+            "discount": 0.3,
+            "id": "5",
+            "imageUrl": "https://down-id.img.susercontent.com/file/f9ac66b6f7db616a9ddaa480681bef85",
+            "name": "Sweater Rajut",
+            "price": 150000,
+            "stock": 8
+          }
+        }
+      ]
+    },
+    {
+      "id": "a0a0",
+      "userId": "5b29",
+      "totalPrice": 300000,
+      "tax": 30000,
+      "transactionDate": "2025-02-05T03:45:53.399Z",
+      "items": [
+        {
+          "id": "5378",
+          "userId": "5b29",
+          "productId": "5",
+          "quantity": 2,
+          "product": {
+            "discount": 0.3,
+            "id": "5",
+            "imageUrl": "https://down-id.img.susercontent.com/file/f9ac66b6f7db616a9ddaa480681bef85",
+            "name": "Sweater Rajut",
+            "price": 150000,
+            "stock": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "111f",
+      "userId": "5b29",
+      "totalPrice": 730000,
+      "tax": 73000,
+      "transactionDate": "2025-02-06T03:08:07.487Z",
+      "items": [
+        {
+          "id": "6211",
+          "userId": "5b29",
+          "productId": "8",
+          "quantity": 2,
+          "product": {
+            "discount": 0,
+            "id": "8",
+            "imageUrl": "https://dev.kuka.co.id/asset/product_photo/1f8b2b35760055e7bc468dd4b4c30369.jpg",
+            "name": "Kemeja Batik",
+            "price": 185000,
+            "stock": 15
+          }
+        },
+        {
+          "id": "dea5",
+          "userId": "5b29",
+          "productId": "eaf4",
+          "quantity": 3,
+          "product": {
+            "id": "eaf4",
+            "name": "baju hitam",
+            "price": 120000,
+            "stock": 23,
+            "imageUrl": "data:image/jpeg;base64,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"
+          }
+        }
+      ]
+    },
+    {
+      "id": "546e",
+      "userId": "5b29",
+      "totalPrice": 495000,
+      "tax": 49500,
+      "transactionDate": "2025-02-07T01:23:00.451Z",
+      "items": [
+        {
+          "id": "934f",
+          "userId": "5b29",
+          "productId": "2",
+          "quantity": 2,
+          "product": {
+            "discount": 0.5,
+            "id": "2",
+            "imageUrl": "https://down-id.img.susercontent.com/file/592d145656398b8e1e9fc237ffb5dce8",
+            "name": "Kemeja Putih",
+            "price": 185000,
+            "stock": 8
+          }
+        },
+        {
+          "id": "3b01",
+          "userId": "5b29",
+          "productId": "1",
+          "quantity": 1,
+          "product": {
+            "discount": 0.1,
+            "id": "1",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyAhjnInhaplUJ_XdZTEPyC3FXZ3nos0KYA&s",
+            "name": "Jubah Putih",
+            "price": 125000,
+            "stock": 10
+          }
+        }
+      ]
+    }
+  ]
+}
