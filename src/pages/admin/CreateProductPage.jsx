@@ -4,7 +4,6 @@ import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import ProductForm from "@/components/layout/forms/ProductForm";
 import { useDelay } from "@/components/DelayContext";
-import { AdminPage } from "@/components/guard/AdminPage";
 
 
 const CreateProductPage = () => {

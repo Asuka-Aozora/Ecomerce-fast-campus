@@ -4,9 +4,9 @@
       "discount": 0.1,
       "id": "1",
       "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWyAhjnInhaplUJ_XdZTEPyC3FXZ3nos0KYA&s",
-      "name": "Jubah Putih",
-      "price": 125000,
-      "stock": 9
+      "name": "Jubah Putih edit",
+      "price": 525000,
+      "stock": 28
     },
     {
       "discount": 0.5,
@@ -37,15 +37,7 @@
       "imageUrl": "https://down-id.img.susercontent.com/file/f9ac66b6f7db616a9ddaa480681bef85",
       "name": "Sweater Rajut",
       "price": 150000,
-      "stock": 2
-    },
-    {
-      "discount": 0.25,
-      "id": "6",
-      "imageUrl": "https://cutoff.id/cdn/shop/files/PRIMEINDIGOLP1.jpg?v=1684647337",
-      "name": "Celana Jeans",
-      "price": 210000,
-      "stock": 0
+      "stock": 1
     },
     {
       "discount": 0.4,
@@ -54,14 +46,6 @@
       "name": "Rok Panjang",
       "price": 95000,
       "stock": 0
-    },
-    {
-      "discount": 0,
-      "id": "8",
-      "imageUrl": "https://dev.kuka.co.id/asset/product_photo/1f8b2b35760055e7bc468dd4b4c30369.jpg",
-      "name": "Kemeja Batik",
-      "price": 185000,
-      "stock": 13
     },
     {
       "id": "eaf4",
@@ -89,6 +73,12 @@
       "username": "aozora",
       "password": "password",
       "role": "user"
+    },
+    {
+      "id": "3762",
+      "username": "popo",
+      "password": "minecraft",
+      "role": "admin"
     }
   ],
   "carts": [],
@@ -294,6 +284,29 @@
             "name": "Jubah Putih",
             "price": 125000,
             "stock": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "dcec",
+      "userId": "3762",
+      "totalPrice": 150000,
+      "tax": 15000,
+      "transactionDate": "2025-02-22T06:12:48.572Z",
+      "items": [
+        {
+          "id": "0449",
+          "userId": "3762",
+          "productId": "5",
+          "quantity": 1,
+          "product": {
+            "discount": 0.3,
+            "id": "5",
+            "imageUrl": "https://down-id.img.susercontent.com/file/f9ac66b6f7db616a9ddaa480681bef85",
+            "name": "Sweater Rajut",
+            "price": 150000,
+            "stock": 2
           }
         }
       ]

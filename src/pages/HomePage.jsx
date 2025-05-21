@@ -1,8 +1,4 @@
-import { useSelector } from "react-redux";
-import { Footer } from "../components/Footer";
-import { Header } from '../components/Header';
 import { ProductCard } from '../components/ProductCard';
-import { Button } from "@/components/ui/button";
 import { axiosInstance } from "@/lib/axios";
 import { useEffect, useState } from "react";
 
@@ -12,8 +8,6 @@ const HomePage = () => {
   const [loading, setLoading] = useState(false); // Status loading
   const [error, setError] = useState(null); // Status error
 
-  const userSelector = useSelector((state) => state.user)
-  
   const fetchProducts = async () => {
     setLoading(true); // Mulai loading
     setError(null); // Reset error

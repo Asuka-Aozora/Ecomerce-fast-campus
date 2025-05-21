@@ -28,7 +28,7 @@ export const ProductCard = (props) => {
 
   // // MOUNT 
   // useEffect(() => {
-  //   alert("COMPONENT SEDANG NGEMAOUNT")
+  //   alert("COMPONENT SEDANG NGEMOUNT")
   // }, [])
 
   // // UPDATE/MOUNT
